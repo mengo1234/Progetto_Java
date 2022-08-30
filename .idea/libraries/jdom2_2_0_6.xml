@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jdom2-2.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/rome/rome/jar_files/jdom2-2.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rome/rome/jar_files/rome-1.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rome/rome/jar_files/rome-utils-1.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rome/rome/jar_files/slf4j-api-1.7.16.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/rome/rome/jar_files/slf4j-simple-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
