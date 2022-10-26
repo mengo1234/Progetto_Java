@@ -1,0 +1,718 @@
+[Wed Oct 26 18:35:42 CEST 2022] 
+«Alzare il tetto del contante a 10 mila euro» La proposta della Lega sui pagamenti cash Flat tax e tregua fiscale: le prime misure 
+https://www.corriere.it/economia/consumi/22_ottobre_26/tetto-contante-passera-2-10-mila-euro-proposta-legge-lega-pagamenti-cash-30ed4704-5511-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:37:39 CEST 2022] 
+Fiducia a Meloni, la diretta dall’Aula
+https://www.corriere.it/politica/22_ottobre_26/fiducia-meloni-diretta-dall-aula-e56b6684-5502-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:20:00 CEST 2022] 
+Le foto della giornata del voto di fiducia al Senato
+https://www.corriere.it/foto-gallery/politica/22_ottobre_26/foto-giornata-voto-fiducia-senato-b61932f0-5528-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:03:57 CEST 2022] 
+Meloni alla Camera: il discorso, le scuse per il «tu», il duello sulle donne 
+https://www.corriere.it/politica/22_ottobre_26/meloni-discorso-camera-b1aaeb86-549d-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 14:24:30 CEST 2022] 
+Tolkien, così l’universo fantasy del Signore degli Anelli influenza i discorsi di Giorgia Meloni 
+https://www.corriere.it/politica/22_ottobre_26/tolkien-cosi-l-universo-fantasy-signore-anelli-influenza-discorsi-giorgia-meloni-c2c4d6f8-5505-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:59:15 CEST 2022] 
+Beppe Grillo: «Il governo? Spero che duri a lungo, Conte sta tirando fuori tutto il nostro orgoglio»
+https://www.corriere.it/politica/22_ottobre_26/m5s-grillo-neo-eletti-se-siete-qui-grazie-regola-due-mandati-c33ecca6-550f-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:21:55 CEST 2022] 
+Caos in Iran, la polizia  spara sui  manifestanti  che ricordano Mahsa Amini  Il video: la lunghissima coda
+https://www.corriere.it/esteri/22_ottobre_26/iran-polizia-spara-manifestanti-che-commemorano-mahsa-40-giorni-morte-73bd9774-552e-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Esteri
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:22:18 CEST 2022] 
+«L’Ucraina va de-satanizzata»: Mosca gioca la carta della religione (e lancia un segnale)
+https://www.corriere.it/esteri/22_ottobre_26/ucraina-de-satanizzata-51fa6a0c-552b-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Esteri
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:16:07 CEST 2022] 
+Guerra in Ucraina, gli otto mesi di repressione di Putin in Russia
+https://www.corriere.it/dataroom-milena-gabanelli/guerra-ucraina-otto-mesi-repressione-putin-russia/9cbbbcb2-544f-11ed-a58a-ad027d5a5146-va.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:29:30 CEST 2022] 
+Il Papa: «Anche preti e suore guardano porno, è un vizio che hanno tante persone»
+https://www.corriere.it/cronache/22_ottobre_26/papa-anche-preti-suore-guardano-porno-vizio-che-ha-tanta-gente-degenerazione-8356deb0-551b-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cronache
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:17:21 CEST 2022] 
+Addio al DJ Mighty Mouse: è morto nel sonno nella sua casa in Spagna
+https://www.corriere.it/spettacoli/22_ottobre_26/addio-dj-mighty-mouse-morto-sonno-sua-casa-spagna-6cd415a0-5515-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:11:00 CEST 2022] 
+Torino, picchiato dopo una corsa: la tragica fine del tassista morto dopo tre mesi di coma
+https://torino.corriere.it/cronaca/22_ottobre_25/torino-picchiato-una-corsa-tragica-fine-tassista-morto-tre-mesi-coma-4da8459e-5497-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Torino - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:36:54 CEST 2022] 
+Donna urla, passante si spaventa e chiama la polizia. Ma era un’attrice della scuola di Favino 
+https://www.corriere.it/spettacoli/cinema-serie-tv/22_ottobre_26/donna-urla-passante-si-spaventa-chiama-polizia-ma-era-attrice-scuola-favino-e399d614-5544-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:25:03 CEST 2022] 
+Affido di minori, 14 indagati a Torino. C’è anche Bolognini (già coinvolta a Bibbiano) 
+https://torino.corriere.it/cronaca/22_ottobre_26/affido-minori-torino-analogie-il-caso-bibbiano-14-indagati-45c19faa-5529-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Torino - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:48:05 CEST 2022] 
+Dondé, l’urbanista che porta in Italia le «Zone 30» nei centri urbani: «Salvano vite e fanno risparmiare tempo»
+https://www.corriere.it/cronache/22_ottobre_26/zone-30-l-urbanista-donde-che-ha-portato-italia-limiti-velocita-centri-urbani-cosi-salvano-vite-umane-fanno-risparmiare-tempo-2ece1472-5515-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cronache
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:38:14 CEST 2022] 
+ Trivelle, dal Po all’Adriatico dove potrebbero ripartire le estrazioni di gas La mappa
+https://www.corriere.it/economia/consumi/22_ottobre_26/trivelle-meloni-vuole-sfruttare-gas-italiano-ecco-dove-potrebbero-ripartire-estrazioni-125ae5f0-5528-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:24:08 CEST 2022] 
+Btp Italia e Btp «tradizionali»: chi vince la sfida dei rendimenti? Strategie da seguire
+https://www.corriere.it/economia/finanza/22_ottobre_26/btp-italia-btp-tradizionali-chi-vince-sfida-rendimenti-ecco-strategie-0f0961c6-511b-11ed-ae37-402d6a32bf5d.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:27:40 CEST 2022] 
+Italia ultima per merito? Cosa dice il «Meritometro» e quali parametri misura
+https://www.corriere.it/economia/aziende/22_ottobre_26/italia-ultima-merito-cosa-dice-meritometro-quali-parametri-misura-223304b0-553e-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:34:27 CEST 2022] 
+ Pagamenti istantanei, la Ue lancia il  bonifico super veloce da 10 secondi
+https://www.corriere.it/economia/consumi/22_ottobre_26/bonifici-istantanei-ue-lancia-pagamento-super-veloce-10-secondi-68266a08-5524-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:26:06 CEST 2022] 
+Esselunga apre a Milano  la gastronomia di alto livello (di fronte a Peck)
+https://www.corriere.it/economia/aziende/22_ottobre_26/esselunga-apre-milano-le-eccellenze-italiane-gastronomia-alto-livello-di-fronte-peck-634eecb0-5490-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:03:38 CEST 2022] 
+Katy Perry rimane sul palco con un occhio «bloccato»: l’imprevisto a Las Vegas
+https://video.corriere.it/spettacoli/katy-perry-rimane-palco-un-occhio-bloccato-l-imprevisto-las-vegas/bb8f9242-5519-11ed-9aa3-c0d791a13b03
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:39:29 CEST 2022] 
+Cosa c’è dietro il crollo del prezzo del gas? (E il presumibile calo delle nostre bollette)
+https://video.corriere.it/esteri/cosa-c-dietro-crollo-prezzo-gas-presumibile-calo-nostre-bollette/a787b1a4-5509-11ed-9aa3-c0d791a13b03
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:37:14 CEST 2022] 
+Russia, Putin segue le esercitazioni nucleari
+https://video.corriere.it/esteri/russia-putin-segue-esercitazioni-nucleari/0c6e76ba-5529-11ed-9aa3-c0d791a13b03
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 21:01:50 CEST 2022] 
+Marta Fascina entra a Montecitorio: sul telefono la cover con il volto di Berlusconi
+https://video.corriere.it/politica/marta-fascina-entra-montecitorio-telefono-cover-il-volto-berlusconi/fc3f3112-5483-11ed-a58a-ad027d5a5146
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 12:36:58 CEST 2022] 
+Luca e Paolo e le battaglie della sinistra per i diritti: “il” presidente di Giorgia Meloni
+https://video.corriere.it/spettacoli/luca-paolo-battaglie-sinistra-diritti-il-presidente-giorgia-meloni/e708441e-5514-11ed-9aa3-c0d791a13b03
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:34:35 CEST 2022] 
+Elicotteri ucraini volano a pochi metri dalla strada: la tattica per evitare l’abbattimento
+https://video.corriere.it/esteri/elicotteri-ucraini-volano-pochi-metri-strada-tattica-evitare-l-abbattimento/b1fa9508-5544-11ed-9aa3-c0d791a13b03
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:18:58 CEST 2022] 
+Tumore al pancreas,  i sintomi da non trascurare:  È tra i più letali, ecco perché
+https://www.corriere.it/salute/sportello_cancro/22_ottobre_25/tumore-pancreas-sintomi-non-trascurare-che-cosa-si-puo-fare-oggi-e3f1ddc8-43fb-11ed-9470-d1aae9890933.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 20:05:03 CEST 2022] 
+Il nuovo virus ibrido che fonde influenza e RSV  è capace di eludere  il sistema immunitario 
+https://www.corriere.it/salute/malattie_infettive/22_ottobre_25/virus-ibrido-che-fonde-influenza-rsv-capace-eludere-sistema-immunitario-studio-c7871ac8-543a-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Salute
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:21:25 CEST 2022] 
+Lillio Sforza Ruspoli, addio al «principe contadino» che ballò con la futura  Elisabetta II 
+https://roma.corriere.it/notizie/cronaca/22_ottobre_26/lillio-sforza-ruspoli-addio-principe-contadino-che-ballo-elisabetta-ii-28ec5420-54f6-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Roma - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 11:30:01 CEST 2022] 
+Eva Grimaldi: «Imma Battaglia? Il mio ex mi accarezzava, e io pensavo a lei»
+https://www.corriere.it/cronache/grandi-amori/22_ottobre_26/imma-battaglia-eva-grimaldi-intervista-1c47bcb6-53b4-11ed-a67a-b07760455bf9.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cronache
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 14:32:48 CEST 2022] 
+Ombrelloni e bagnanti: nelle spiagge italiane sembra (quasi) estate
+https://www.corriere.it/cronache/22_ottobre_26/ombrelloni-bagnanti-spiagge-italiane-sembra-quasi-estate-fcaa58cc-5508-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cronache
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:52:31 CEST 2022] 
+Mimmo Lucano: la Procura generale chiede in Appello 10 anni e 5 mesi di reclusione
+https://www.corriere.it/cronache/22_ottobre_26/mimmo-lucano-procura-generale-chiede-appello-10-anni-5-mesi-reclusione-60c8b3b2-552c-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cronache
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:01:33 CEST 2022] 
+Inchiesta Juventus, c'è la carta segreta di Ronaldo: accordo da 20 milioni
+https://www.corriere.it/sport/calcio/champions-league/22_ottobre_26/inchiesta-juventus-carta-segreta-ronaldo-94046390-5499-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:59:14 CEST 2022] 
+Persona transgender trovata morta in albergo a Tor San Lorenzo: un arresto per omicidio 
+https://roma.corriere.it/notizie/cronaca/22_ottobre_26/trans-trovata-morta-albergo-tor-san-lorenzo-arresto-omicidio-9cfefdca-5502-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Roma - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 23:52:11 CEST 2022] 
+L’Italia è il Bel Paese  ma Dante lo disse con sarcasmo
+https://www.corriere.it/lodicoalcorriere/index/25-10-2022/index.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 08:41:16 CEST 2022] 
+Delitti, donne umiliate, orrori. In scena «Il Duce delinquente»
+https://www.corriere.it/spettacoli/22_ottobre_25/delitti-donne-umiliate-orroriin-scena-duce-delinquente-3d0718d6-547f-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:27:58 CEST 2022] 
+Coperto di polvere, accompagna il figlio alla partita di basket: il gesto (virale) di un minatore americano
+https://www.corriere.it/sport/22_ottobre_26/minatore-basket-figlio-stati-uniti-kentucky-19964d5c-5508-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:39:42 CEST 2022] 
+Ornella Vanoni, femore rotto a 88 anni, tour rinviato: «I marciapiedi sono disastrati» 
+https://www.corriere.it/spettacoli/22_ottobre_25/ornella-vanoni-femore-rotto-88-anni-tour-rinviato-marciapiedi-sono-disastrati-3ef2424c-544d-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:23:11 CEST 2022] 
+Penne «alla burina»: la ricetta originale del piatto tipico romano
+https://www.corriere.it/cook/news/cards/penne-alla-burina-ricetta-originale-piatto-tipico-romano/penne-alla-burina-ricetta_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:34:37 CEST 2022] 
+Champions League, dove vedere Inter-Viktoria Plzen e Napoli-Rangers
+https://www.corriere.it/sport/calcio/champions-league/22_ottobre_26/champions-league-dove-vedere-tv-inter-viktoria-plzen-napoli-rangers-93deb9f4-54af-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:03:06 CEST 2022] 
+«Matrimonio a prima vista Italia»: chi sta ancora insieme, chi ha avuto un bambino (e chi è stato espulso), 6 segreti
+https://www.corriere.it/spettacoli/cards/matrimonio-prima-vista-italia-chi-sta-ancora-insieme-chi-ha-avuto-bambino-chi-stato-espulso-6-segreti/nona-edizione-chiaro_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:54:36 CEST 2022] 
+Luigi Berlusconi, è nato il secondo figlio
+https://www.corriere.it/moda/22_ottobre_26/luigi-berlusconi-nato-secondo-figlio-be008508-5538-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Moda
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:24:01 CEST 2022] 
+Franco Berrino: «Mangiate il cibo prodotto dalle piante, non dagli impianti»
+https://www.corriere.it/piccole-dosi-franco-berrino/22_ottobre_26/franco-berrino-mangiate-cibo-prodotto-piante-non-impianti-f5e892ca-5444-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:06:27 CEST 2022] 
+Silvia Slitti, la moglie di Pazzini, attacca di nuovo Ambra: «È senza vergogna, occupa ancora casa nostra»
+https://www.corriere.it/spettacoli/22_ottobre_26/silvia-slitti-moglie-pazzini-attacca-nuovo-ambra-senza-vergogna-occupa-ancora-casa-nostra-9968df02-5546-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:00:09 CEST 2022] 
+Katy Perry, durante un concerto sul palco con l'occhio bloccato
+https://www.corriere.it/spettacoli/22_ottobre_26/katy-perry-un-concerto-palco-l-occhio-bloccato-8fb3ccbe-551f-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 09:45:41 CEST 2022] 
+La Nomentana-killer. Le moto dove è vietato e incidenti a raffica 
+https://roma.corriere.it/notizie/cronaca/22_ottobre_26/nomentana-killer-moto-dove-vietato-incidenti-raffica-3e80ef6c-5492-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Roma - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:07:54 CEST 2022] 
+Cinecittà, 25enne ucciso con una coltellata alla schiena. Mistero sul movente, litigio o rapina finita male
+https://roma.corriere.it/notizie/cronaca/22_ottobre_26/cinecitta-25enne-ucciso-una-coltellata-schiena-mistero-movente-litigio-o-rapina-finita-male-97d0428e-5514-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Roma - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:25:11 CEST 2022] 
+Rifiuti abbandonati in strada, le denunce dei cittadini 
+https://roma.corriere.it/cronaca/cards/rifiuti-abbandonati-strada-denunce-cittadini/torrino_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Roma - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:33:20 CEST 2022] 
+Ostia Antica, nuove biglietterie e nuove visite guidate al Parco archeologico 
+https://roma.corriere.it/notizie/arte_e_cultura/22_ottobre_26/ostia-antica-nuove-biglietterie-nuove-visite-guidate-parco-archeologico-7249f4a0-5524-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Roma - Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:27:33 CEST 2022] 
+Scritta «Salvini boia» in Valsusa, il neoministro replica ai No Tav: «I professionisti del no non ci fermeranno»
+https://torino.corriere.it/cronaca/22_ottobre_26/scritta-salvini-boia-valsusa-neoministro-replica-no-tav-professionisti-no-non-ci-fermeranno-f4821826-553d-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Torino - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 08:27:56 CEST 2022] 
+A Verbania subisce molestie sessuali sul lavoro, denuncia e viene trasferita: azienda condannata 
+https://torino.corriere.it/cronaca/22_ottobre_25/verbania-subisce-molestie-sessuali-posto-lavoro-titolare-non-interviene-azienda-condannata-bacd580e-5478-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Torino - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:23:50 CEST 2022] 
+Novi Ligure, 15enne muore mentre va a scuola: frontale con un’auto
+https://torino.corriere.it/cronaca/22_ottobre_26/novi-ligure-studente-15-anni-scooter-muore-travolto-un-auto-mentre-sta-andando-scuola-17c80552-5507-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Torino - Cronaca
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:16:54 CEST 2022] 
+Museo del Cinema di Torino, viaggio nel «caveau» nascosto. Tremila pellicole, da «Cabiria» ai porno
+https://torino.corriere.it/cultura/22_ottobre_26/museo-cinema-torino-viaggio-caveau-nascosto-tremila-pellicole-cabiria-porno-69547cbe-5531-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Torino - Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:05:07 CEST 2022] 
+Meloni tende la mano alla Svp che ricambia con l’astensione dei suoi parlamentari sulla fiducia al governo
+https://www.corriere.it/elezioni/22_ottobre_26/meloni-tende-mano-svp-che-ricambia-l-astensione-suoi-parlamentari-fiducia-governo-aef6e1d6-5544-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Mon Oct 24 17:45:00 CEST 2022] 
+Dal centrosinistra i complimenti delle donne a Meloni: «È tutto quello che non siamo»
+https://www.corriere.it/politica/22_ottobre_24/dal-centrosinistra-complimenti-donne-meloni-nel-pd-fighetti-lei-popolo-87a07804-5382-11ed-a67a-b07760455bf9.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Mon Oct 24 13:37:50 CEST 2022] 
+La madre attrice, la nascita in Sicilia e il dolore del partito per  Malcolm Occhetto 
+https://www.corriere.it/politica/22_ottobre_24/achille-occhetto-morte-figlio-malcolm-partito-si-stringe-attorno-ex-leader-pci-92d14d62-537c-11ed-a67a-b07760455bf9.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Sat Oct 01 08:11:52 CEST 2022] 
+Il gradimento di Draghi al 63%. Sale ancora dopo le dimissioni
+https://www.corriere.it/politica/22_settembre_30/gradimento-draghi-63percento-sale-ancora-le-dimissioni-81a0c2a4-40fb-11ed-8b65-55aa2f703574.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Politica
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 10:26:41 CEST 2022] 
+Mobilità, i monopattini riducono il traffico? Primo bilancio due anni dopo
+https://www.corriere.it/sette/attualita/22_ottobre_25/mobilita-monopattini-riducono-traffico-primo-bilancio-due-anni-21859f7a-4ee8-11ed-8304-dc6918921d5f.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:14:01 CEST 2022] 
+Pasolini: «Un massacro firmato da pariolini neofascisti. Ma ora anche i sottoproletari sono criminali»
+https://www.corriere.it/sette/cultura-societa/22_ottobre_25/pasolini-un-massacro-firmato-pariolini-neofascisti-ma-ora-anche-sottoproletari-sono-criminali-4c1bcc74-4fbe-11ed-b010-6f56425cdcb2.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 10:21:57 CEST 2022] 
+Nick Hornby: «No Brexit, più tasse, meno paura. In gran Bretagna esiste un patriottismo liberal»
+https://www.corriere.it/sette/incontri/22_ottobre_25/nick-hornby-no-brexit-piu-tasse-meno-paura-gran-bretagna-esiste-patriottismo-liberal-fe45ecbe-4d97-11ed-9450-e6f5245270b7.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Sat Oct 22 07:19:26 CEST 2022] 
+Gae Aulenti che adorava l’elmetto giallo e ai misogini non dava corda
+https://www.corriere.it/sette/opinioni/22_ottobre_22/gae-aulenti-che-adorava-l-elmetto-giallo-misogini-non-dava-corda-0ba7f0b6-5061-11ed-9fe8-4b642e287986.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 15:36:43 CEST 2022] 
+Gli errori cinematografici che hanno fatto la storia: cineprese in scena, testate e imprevisti di ogni genere
+https://www.corriere.it/spettacoli/cinema-serie-tv/cards/gli-errori-cinematografici-che-hanno-fatto-storia-cineprese-scena-testate-imprevisti-ogni-genere/niente-perfetto_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:03:33 CEST 2022] 
+Festival di Sanremo: Amadeus ha selezionato i 43 artisti per la categoria Giovani
+https://www.corriere.it/spettacoli/22_ottobre_26/festival-sanremo-amadeus-ha-selezionato-43-artisti-la-categoria-giovani-f59ba674-5532-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 10:48:03 CEST 2022] 
+Boris 4 anticipazioni, tutto quello che c’è da sapere sulla nuova stagione della serie
+https://www.corriere.it/spettacoli/cinema-serie-tv/cards/boris-4-anticipazioni-tutto-quello-che-c-sapere-nuova-stagione-serie/quarta-stagione_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:52:08 CEST 2022] 
+Elenoire Ferruzzi, dai segreti delle unghie lunghissime al passato difficile
+https://www.corriere.it/spettacoli/cards/elenoire-ferruzzi-segreti-unghie-lunghissime-passato-difficile/icona_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Spettacoli
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 07:06:59 CEST 2022] 
+La lotta a disagio e crimine? Passa anche da un libro regalato dai Carabinieri 
+https://www.corriere.it/buone-notizie/22_ottobre_25/lotta-disagio-crimine-passa-anche-un-libro-regalato-carabinieri-dd6c2642-536f-11ed-a67a-b07760455bf9.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 07:13:00 CEST 2022] 
+Tutte le sfide di Chiara Bordi: «Surf e sfilate. E ora porto la mia disabilità in tv»
+https://www.corriere.it/buone-notizie/22_ottobre_24/tutte-sfide-chiara-bordi-surf-sfilate-ora-porto-mia-disabilita-tv-c68ccd36-5253-11ed-8180-68ab22e31c66.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 07:09:36 CEST 2022] 
+ Azione Cattolica, 2mila giovani incontrano papa Francesco sui «Segni del Tempo»
+https://www.corriere.it/buone-notizie/22_ottobre_25/azione-cattolica-2mila-giovani-incontrano-papa-francesco-segni-tempo-5ba11c32-5377-11ed-a67a-b07760455bf9.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 18:12:40 CEST 2022] 
+ L’appello delle ong: un viceministro tecnico per la cooperazione
+https://www.corriere.it/buone-notizie/22_ottobre_24/appello-ong-viceministro-tecnico-la-cooperazione-28c8637a-539e-11ed-a67a-b07760455bf9.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:42:04 CEST 2022] 
+Verso il Midterm, in Pennsylvania il convalescente Fetterman fatica contro il dottor Oz
+https://www.corriere.it/esteri/22_ottobre_26/pennsylvania-convalescente-fetterman-fatica-contro-dottor-oz-c9c05316-5513-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Esteri
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:21:36 CEST 2022] 
+Israele, sulla fecondazione in vitro torna il giudizio di Salomone: di chi è il figlio concepito in vitro?
+https://www.corriere.it/esteri/22_ottobre_25/israele-torna-giudizio-salomone-chi-figlio-concepito-vitro-62aedf30-548c-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Esteri
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:52:25 CEST 2022] 
+«My wife and I», i primi centenari festeggiati da re Carlo e Camilla
+https://www.corriere.it/esteri/22_ottobre_23/my-wife-and-primi-centenari-festeggiati-re-carlo-camilla-4fbf08a0-52ed-11ed-9995-eee0d5da864b.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Esteri
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:39:11 CEST 2022] 
+I 10 migliori formaggi italiani del 2022: i premiati degli Italian Cheese Awards
+https://www.corriere.it/cook/news/cards/i-10-migliori-formaggi-italiani-2022-premiati-italian-cheese-awards/i-10-migliori-formaggi-italiani_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 09:41:09 CEST 2022] 
+Slow Food, le migliori osterie d’Italia 2023: le novità regione per regione 
+https://www.corriere.it/cook/news/cards/slow-food-migliori-osterie-d-italia-2023-novita-regione-regione/slow-food-migliori-osterie-d-italia-2023_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 13:47:28 CEST 2022] 
+Uova, vanno  conservate fuori o dentro il frigo? Le risposte per evitare rischi
+https://www.corriere.it/cook/news/cards/uova-vanno-conservate-fuori-o-dentro-frigo-risposte-evitate-rischi/dove-conservare-uova_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 11 17:23:01 CEST 2022] 
+Torna l’Agenda di Cook, in edicola con il Corriere 
+https://www.corriere.it/cook/news/22_settembre_27/torna-l-agenda-cook-edicola-il-corriere-10-ottobre-9e71e0a8-3e4d-11ed-a7d0-8fb77372b6c6.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Corriere
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:41:17 CEST 2022] 
+Iniesta e la depressione: «Abbracciavo mia moglie, ma era come abbracciare un cuscino»
+https://www.corriere.it/sport/calcio/22_ottobre_26/iniesta-depressione-sono-ancora-terapia-abbracciavo-mia-moglie-ma-era-come-abbracciare-cuscino-574d6b34-5540-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:14:35 CEST 2022] 
+Kvaratskhelia sul New York Times: «Ha reso il calcio divertente e vincente»
+https://www.corriere.it/sport/calcio/22_ottobre_26/napoli-kvaratskhelia-new-york-times-calcio-cd05cffe-5538-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 09:31:55 CEST 2022] 
+Pagelle Benfica-Juventus: Bonucci inizia male e finisce peggio (4). Gatti, notte da Halloween (4). Salvi i giovani Sourè e Iling-Junior (6,5)
+https://www.corriere.it/sport/calcio/cards/pagelle-benfica-juventus/szczesny-55_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Tue Oct 25 20:20:08 CEST 2022] 
+Cassano contro Moggi: «Alla Juventus ti avrei attaccato al muro». La replica: «Provaci»
+https://www.corriere.it/sport/calcio/22_ottobre_25/cassano-contro-moggi-alla-juventus-ti-avrei-attaccato-muro-replica-provaci-db4d4160-547e-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Sport
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 09:23:27 CEST 2022] 
+La resistenza magica di sette fate e una gatta nella notte di San Giovanni | Video
+https://video.corriere.it/scuola/sette-fate-gatta-notte-magica-san-giovanni/c3bb66be-53a0-11ed-a67a-b07760455bf9
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Fri Oct 21 15:48:02 CEST 2022] 
+Educazione Civica, l’unica materia che ha un voto in pagella ma non ha un «suo» prof
+https://www.corriere.it/scuola/secondaria/22_ottobre_20/educazione-civica-l-unica-materia-che-ha-voto-pagella-ma-non-ha-suo-prof-3439e25a-5098-11ed-9fe8-4b642e287986.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 09:22:25 CEST 2022] 
+Donne e lavoro: solo le laureate in materie Stem guadagnano come gli uomini (anzi: leggermente di più)
+https://www.corriere.it/scuola/universita/cards/donne-lavoro-solo-laureate-materie-stem-guadagnano-come-uomini-anzi-leggermente-piu/svantaggiate-gli-svantaggiati_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 09:24:58 CEST 2022] 
+Maggiordomo: quel «capo» della servitù sempre impeccabile, eterno sospettato
+https://www.corriere.it/scuola/22_ottobre_26/maggiordomo-combatte-realta-diventando-star-letteratura-438dd6e4-548f-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:18:11 CEST 2022] 
+ONU: in Italia violati i diritti delle persone disabili e di chi le assiste. I caregiver: «Ora subito una legge che ci tuteli» 
+https://www.corriere.it/salute/disabilita/cards/onu-italia-violati-diritti-persone-disabili-chi-assiste-caregiver-ora-subito-legge-che-ci-tuteli/lavoro-cura-invisibile_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Salute
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 18:15:39 CEST 2022] 
+Sul Corriere Salute: come recuperare le vaccinazioni perse in pandemia
+https://www.corriere.it/salute/22_ottobre_26/sul-corriere-salute-come-recuperare-vaccinazioni-perse-pandemia-b28d55dc-508a-11ed-9fe8-4b642e287986.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Salute
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Mon Oct 24 10:17:49 CEST 2022] 
+Sette cavalli selvaggi dell'Aveto catturati e rinchiusi. Gli animalisti: «Devono tornare in libertà»
+https://www.corriere.it/animali/22_ottobre_23/sette-cavalli-selvaggi-aveto-rinchiusi-animalisti-devono-tornare-liberta-9404683a-52f1-11ed-9995-eee0d5da864b.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Animali
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Thu Oct 20 11:01:45 CEST 2022] 
+Si è spenta l’orsa Greta, salvata dalla Lituania e ospitata nel Parco d’Abruzzo
+https://www.corriere.it/cronache/22_ottobre_20/si-spenta-l-orsa-greta-salvata-lituania-ospitata-parco-d-abruzzo-ebe03f6c-503e-11ed-9fe8-4b642e287986.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cronache
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Mon Oct 24 17:17:46 CEST 2022] 
+«Basta uccidere i pulcini maschi». La richiesta dei ministri dell’Agricoltura 
+https://www.corriere.it/animali/22_ottobre_23/basta-uccidere-pulcini-maschi-richiesta-ministri-dell-agricoltura-086ea5bc-52bd-11ed-9995-eee0d5da864b.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Animali
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Sat Oct 22 13:40:25 CEST 2022] 
+La lezione «diplomatica» dei cani: conoscersi riduce ed evita i conflitti
+https://www.corriere.it/animali/bonnie-e-co/notizie/lezione-diplomatica-cani-conoscersi-riduce-ed-evita-conflitti-34717e7e-51e0-11ed-8180-68ab22e31c66.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Scienze
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Mon Oct 24 14:50:52 CEST 2022] 
+Incentivi auto, dal 2 novembre al via i nuovi bonus. Fino a 7.500 euro di sconto sulle elettriche I modelli acquistabili
+https://www.corriere.it/motori/news/22_ottobre_21/incentivi-auto-2-novembre-via-nuovi-bonus-fino-7500-euro-sconto-elettriche-modelli-acquistabili-f24d2898-5128-11ed-ae37-402d6a32bf5d.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Motori
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Thu Oct 20 15:17:18 CEST 2022] 
+Crash test, le nuove auto alla prova: otto su dieci prendono il massimo punteggio
+https://www.corriere.it/motori/news/tecnologia/cards/crash-test-nuove-auto-prova-otto-dieci-prendono-massimo-punteggio/crash-test-euro-ncap-sessione-molto-positiva_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Motori
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Mon Oct 24 14:52:01 CEST 2022] 
+Ferrari 296 GTS, come va la prima V6 spider a cielo aperto di Maranello. Video e foto
+https://www.corriere.it/motori/prove/22_ottobre_17/ferrari-296-gts-come-va-prima-v6-spider-cielo-aperto-maranello-video-foto-7c2b51d8-4bda-11ed-9dcb-b248fbaa757f.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Motori
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Thu Oct 20 15:04:59 CEST 2022] 
+Jeep Avenger, il debutto del primo Suv completamente elettrico. Ecco com’è
+https://www.corriere.it/motori/news/anteprime/cards/jeep-avenger-debutto-primo-suv-completamente-elettrico-ecco-com-e/modello-strategico_principale.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Motori
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 12:57:57 CEST 2022] 
+Scatti per l’emergenza: a Roma la mostra per i trent’anni di Intersos  
+https://www.corriere.it/cultura/22_ottobre_26/scatti-l-emergenza-roma-mostra-trent-anni-intersos-6945eb44-548d-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:26:06 CEST 2022] 
+Frammenti di Hollywood: l’incipit di David Thomson nell’App de «la Lettura»
+https://www.corriere.it/la-lettura/22_ottobre_21/baricco-eggers-speciale-lucca-comics-vila-matas-digitale-la-lettura-gia-nell-app-cc4b1e90-5153-11ed-ae37-402d6a32bf5d.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Sun Oct 16 19:28:58 CEST 2022] 
+«La Lettura», ecco l’Agendina 2023 
+https://www.corriere.it/la-lettura/22_ottobre_10/lettura-ecco-l-agendina-2023-9533f6c6-4874-11ed-9137-2a999573b4c6.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 15:24:14 CEST 2022] 
+Paolo Giordano, esce il nuovo romanzo: «Tasmania»
+https://www.corriere.it/cultura/22_ottobre_21/paolo-giordano-esce-nuovo-romanzo-tasmania-5bbb7256-509f-11ed-9fe8-4b642e287986.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Cultura
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:31:52 CEST 2022] 
+Rinnovabili in Italia, è corsa contro il tempo: a che punto siamo nella maratona?
+https://video.corriere.it/news/snack-news/rinnovabili-italia-corsa-contro-tempo-che-punto-siamo-maratona/49fcd7cc-5512-11ed-9aa3-c0d791a13b03
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=CorriereTV
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:10:49 CEST 2022] 
+ Pomodoro, produzione in calo del 10%: sulla campagna 2022 pesa il caro energia
+https://www.corriere.it/economia/aziende/22_ottobre_26/pomodoro-produzione-calo-10percento-campagna-2022-pesa-caro-energia-8e93434a-5525-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 17:38:05 CEST 2022] 
+ Preatoni porta il turismo in Borsa a Parigi: dopo il Covid valore dimezzato
+https://www.corriere.it/economia/finanza/22_ottobre_26/preatoni-porta-turismo-borsa-parigi-il-covid-valore-dimezzato-46b59e9e-5519-11ed-9aa3-c0d791a13b03.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+[Wed Oct 26 16:51:38 CEST 2022] 
+Da Valentino al Parmigiano Reggiano: il «Made in Italy» e la lotta di Amazon contro i falsi
+https://www.corriere.it/economia/moda-business/22_ottobre_26/da-valentino-parmigiano-reggiano-made-italy-lotta-amazon-contro-falsi-8cc56566-5485-11ed-a58a-ad027d5a5146.shtml
+[SyndCategoryImpl.taxonomyUri=https://www.corriere.it
+SyndCategoryImpl.name=Economia
+SyndCategoryImpl.interface=interface com.rometools.rome.feed.synd.SyndCategory
+]
+Notizia singola scelta da utente
+[Wed Oct 26 18:35:42 CEST 2022] 
+«Alzare il tetto del contante a 10 mila euro» La proposta della Lega sui pagamenti cash Flat tax e tregua fiscale: le prime misure 
+https://www.corriere.it/economia/consumi/22_ottobre_26/tetto-contante-passera-2-10-mila-euro-proposta-legge-lega-pagamenti-cash-30ed4704-5511-11ed-9aa3-c0d791a13b03.shtml
