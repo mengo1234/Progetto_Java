@@ -7,8 +7,10 @@ import org.xml.sax.InputSource;
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
+
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -23,30 +25,43 @@ public class Fonte{
    public ArrayList<Integer> votazioni;
    public ArrayList<Notizia> notizieTot;
 
-
    public Notizia notiziaScelta;
     public Fonte(String sourceURL,String nomeFonte) {
         this.sourceURL = sourceURL;
         this.nomeFonte = nomeFonte;
-        this.path="C:/Progetti/untitled/src/fileTesto/" + nomeFonte + ".txt";
+        this.path="/Users/fabio/Desktop/Universita/Progetto Java/src/fileTesto/" + nomeFonte + ".txt";
+
+
         this.notizieTot=new ArrayList<>();
 
         try {
             this.fileScrit = new FileWriter(path, true);
+
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
+
     public String getNomeFonte() {
+
         return nomeFonte;
     }
-    public void avviaFonte() {
+    public void avviaFonte() throws IOException {
+        Path patho = Paths.get("/Users/fabio/Desktop/Universita/Progetto Java/src/fileTesto/" + nomeFonte +".txt");
+        if(Files.exists(patho)){
+            this.fileScrit = new FileWriter(path, false);
+            System.out.println("sono qua!");
+
+        }
         try {
             URL feedUrl = new URL(sourceURL);
             SyndFeedInput input = new SyndFeedInput();
             try {
                 SyndFeed feed1 = input.build(new InputSource(feedUrl.openStream()));
                 List<SyndEntry> entries1 = feed1.getEntries();
+
+
                 BufferedWriter bw1 = new BufferedWriter(fileScrit);
                 PrintWriter fileTesto1 = new PrintWriter(bw1);
                 Iterator<SyndEntry> itEntries = entries1.iterator();
@@ -63,6 +78,7 @@ public class Fonte{
                 fileDaLeggere.close();
                 fileTesto1.close();
                 this.fileScrit.close();
+                bw1.close();
             } catch (IllegalArgumentException | FeedException | IOException e) {
                 // Errore lettura feed
                 e.printStackTrace();
@@ -243,5 +259,7 @@ public class Fonte{
     }
 
 
+    public void avviaUltimaNotizia() {
+    }
 }
 

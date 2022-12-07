@@ -1,1 +1,4 @@
-ciaohttp://xml2.corriereobjects.it/rss/homepage.xml
+https://www.ansa.it/sito/ansait_rss.xml,ansa
+https://www.ansa.it/sito/ansait_rss.xml,ansa
+https://www.ansa.it/sito/ansait_rss.xml,porcodio
+https://www.ansa.it/sito/ansait_rss.xml,ansa

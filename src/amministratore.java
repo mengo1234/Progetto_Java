@@ -1,38 +1,32 @@
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class amministratore {
     protected ArrayList<Fonte> fonti ;
     protected ArrayList<Notizia> notizie;
-
-    protected File file;
     protected File folder;
     protected ArrayList<File> allFiles;
     protected String fileFonti;
 
-    public amministratore(){
-        this.fonti =new ArrayList<>();
-        this.notizie=new ArrayList<>();
-        this.folder = new File("C:/Progetti/untitled/src/fileTesto/");
-        this.allFiles=new ArrayList<>();
-        this.fileFonti = "C:/Progetti/untitled/src/fileTesto/nomeFonti.txt";
+    public amministratore() {
+        this.fonti = new ArrayList<>();
+        this.notizie = new ArrayList<>();
+        this.folder = new File("/Users/fabio/Desktop/Universita/Progetto Java/src/fileTesto/");
+        this.allFiles = new ArrayList<>();
+        this.fileFonti = "/Users/fabio/Desktop/Universita/Progetto Java/src/fileTesto/nomeFonti.txt";
+
     }
 
 
-
     public void startNotizia(){
-            System.out.println("digita notizia da visualizzare");
+            System.out.println("digita nome notizia da visualizzare");
             Scanner tastiera=new Scanner(System.in);
             String nomeFonte1= tastiera.nextLine();
 
         for(int i = 0; i< this.notizie.size(); i++){
                 if(this.notizie.get(i).getNomeFonte().equals(nomeFonte1)) {
-                    this.notizie.get(i).avviaNotizia();
+                    this.notizie.get(i).avviaUltimaNotizia();
                     //HashMap<String, String> capitalCities = new HashMap<String, String>();
                 }
             }
@@ -45,34 +39,68 @@ public class amministratore {
         System.out.println("digita fonte da visualizzare");
         Scanner tastiera=new Scanner(System.in);
         String nomeFonte1 = tastiera.nextLine();
-       for(int i = 0; i< this.fonti.size(); i++){
+
+
+        File fold = new File(fileFonti);
+        fonti=leggiFilePresenti(fold,fonti);
+
+        for(int i = 0; i< this.fonti.size(); i++){
             if(this.fonti.get(i).getNomeFonte().equals(nomeFonte1)) {
-               this.fonti.get(i).avviaFonte();
-               System.out.println("scegli il numero di notizia da visualizzare");
-                //Scanner tastiera=new Scanner(System.in);
-                int m=tastiera.nextInt();
-                fonti.get(i).arrayNotizie();
-                fonti.get(i).scegliNotizia(m-1);
+                System.out.println("\n cosa vuoi vedere?");
+                System.out.println("Digita 1: tutte le notizie della fonte");
+                System.out.println("Digita 2: notizia scelta della fonte");
+                System.out.println("Digita 3: ultima notizia della fonte");
+                int menu = tastiera.nextInt();
+                switch(menu) {
+                    case 1:
+                      this.fonti.get(i).avviaFonte();
+                        break;
+                    case 2:
+                      System.out.println("scegli il numero di notizia da visualizzare");
+                      int m= tastiera.nextInt();
+                      fonti.get(i).arrayNotizie();
+                      fonti.get(i).scegliNotizia(m-1);
+                        break;
+                    case 3:
+                        fonti.get(i).arrayNotizie();
+                        fonti.get(i).scegliNotizia(0);
+                        break;
+                    default:
+                        System.out.println("Digita meglio!");
+                        break;
+                }
             }
-        }
+       }
 
 
-        }
-
-
-
-
-
-   /* public int exists(String name){
-        int result=-1;
-        for(int i = 0; i<this.fonti.size(); i++){
-            if(name.equals(this.fonti.get(i).getNomeFonte())){
-                result = i;
-            }
-        }
-        return result;
     }
-*/
+
+    public static ArrayList<Fonte> leggiFilePresenti(File fonti,ArrayList<Fonte> allFiles){
+        System.out.println("Recupero fonti e notizie gia salvate...");
+        try {
+             BufferedReader br2 = new BufferedReader(new FileReader(fonti));
+             String line;
+          while ((line = br2.readLine()) != null) {
+              if(line.contains(",")) {
+                  String[] righe = line.split(",");
+                  String nomeFonte1 = righe[0];
+                  String sourceURL1 = righe[1];
+                  Fonte font = new Fonte(nomeFonte1, sourceURL1);
+                  allFiles.add(font);
+              }else {
+                  throw new IllegalArgumentException("problemi:"+line+ " riprovare!");
+              }
+
+
+             }
+            br2.close();
+          } catch (IOException ex) {
+            throw new RuntimeException(ex);
+        }
+
+        return allFiles;
+    }
+
 
     protected void stampaFonti(){
         for(int i = 0; i< this.fonti.size(); i++){
@@ -131,7 +159,7 @@ public class amministratore {
 
 
 
-    protected void rimuoviFonte() throws IOException {
+    protected void rimuoviFonte(String c) throws IOException {
 
         System.out.println("digita nome della fonte da eliminare:");
 
@@ -140,21 +168,37 @@ public class amministratore {
         }
         
         Scanner tastiera1=new Scanner(System.in);
-        String numero=tastiera1.nextLine();
+        String nom=tastiera1.nextLine();
         String success = null;
-       for(int k=0;k<this.fonti.size();k++) {
-           if (this.fonti.get(k).nomeFonte.equals(numero)) {
-               this.fonti.remove(k);
-               success = this.fonti.get(k).nomeFonte;
-           }
-       }
-        Files.delete(Path.of("C:/Progetti/" + success + ".txt"));
+
+
+
+                 //success = this.fonti.get(k).nomeFonte;
+                  File newF= new File("/Users/fabio/Desktop/Universita/Progetto Java/src/fileTesto/"+c+".txt");
+              boolean result= newF.delete();
+                  if(result){
+                      System.out.println("file eliminato");
+                  }else {
+                      System.out.println("file non eliminato");
+                   }
+
+             //     this.fonti.remove(k);
+
+                 // Files.deleteIfExists(Path.of("C:/Progetti/untitled/src/fileTesto/"+success + ".txt"));
+
+
+            }
+
+
+
+
+
         // Se si è verificato un errore...
         /*boolean isDeleted = Files.deleteIfExists(Paths.get("C:/Progetti/"+success+".txt"));
         if (!isDeleted)
             throw new IllegalArgumentException("Cancellazione fallita");
        */
-    }
+
 
 
     protected void aggiungiFonte(){
@@ -169,15 +213,16 @@ public class amministratore {
 
         try {
             FileWriter fileDaScriv = new FileWriter(this.fileFonti, true);
-            Scanner leggiFileDaScriv= new Scanner(new File(this.fileFonti));
 
-            while(leggiFileDaScriv.nextLine()==null){
+           // FileReader leggiFileDaScriv= new FileReader("C:/Progetti/untitled/src/fileTesto/"+nomeFonte+".txt");
+           // BufferedReader br= new BufferedReader(leggiFileDaScriv);
+            String line;
 
-                System.out.println("ciaoo");
-                fileDaScriv.write(fonteNuova);
-            }
+            fileDaScriv.write(fonteNuova+","+nomeFonte);
+            fileDaScriv.append("\n");
             fileDaScriv.close();
-            leggiFileDaScriv.close();
+           // leggiFileDaScriv.close();
+            //br.close();
 
         }  catch (IllegalArgumentException | IOException e) {
 
@@ -194,9 +239,10 @@ public class amministratore {
         System.out.println("digita nome notizia");
         String nomeFonte=tastiera.nextLine();
         Notizia NotiziaNew=new Notizia(fonteNuova,nomeFonte);
-        if((NotiziaNew.getEntry().getTitle() != null) && (NotiziaNew.getEntry().getPublishedDate() != null) && (NotiziaNew.getEntry().getDescription() != null) && (NotiziaNew.getEntry().getAuthor() != null) && (NotiziaNew.getEntry().getSource() != null)){
+
+        //if( (NotiziaNew.getEntry().getTitle() != null) && (NotiziaNew.getEntry().getPublishedDate() != null) && (NotiziaNew.getEntry().getDescription() != null) && (NotiziaNew.getEntry().getAuthor() != null) && (NotiziaNew.getEntry().getSource() != null)){
             this.notizie.add(NotiziaNew);
-        }
+      //  }
 
 
     }

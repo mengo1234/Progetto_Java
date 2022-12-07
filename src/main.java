@@ -6,9 +6,16 @@ public class main {
     public static void main(String[] args) throws IOException {
 
         amministratore amm=new amministratore();
-        amm.aggiungiFonte();
-
-        amm.startFonte();
+      //  amm.aggiungiFonte();
+       //amm.aggiungiNotizia();
+        //amm.startNotizia();
+        //amm.aggiungiFonte();
+       // amm.startFonte();
+        amm.stampaFonti();
+        amm.rimuoviFonte("ansa");
+        amm.stampaFonti();
+      //  amm.rimuoviFonte();
+      /*  amm.startFonte();
         amm.leggiFilePresenti();
         amm.importareFileNotizie();
         amm.autore();
@@ -22,6 +29,6 @@ public class main {
         //amm.startNotizia();
         amm.startFonte();
        // amm.startFonte();
-
+*/
     }
 }

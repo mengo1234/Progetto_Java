@@ -1,9 +1,16 @@
 import com.rometools.rome.feed.synd.SyndEntry;
+import com.rometools.rome.feed.synd.SyndFeed;
+import com.rometools.rome.io.FeedException;
+import com.rometools.rome.io.SyndFeedInput;
+import org.xml.sax.InputSource;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Notizia extends Fonte {
@@ -18,25 +25,29 @@ public class Notizia extends Fonte {
     }
 
     public SyndEntry getEntry() {
+
         return entry;
     }
 
     public void setEntry(SyndEntry entry) {
+
         this.entry = entry;
     }
-    public void avviaNotizia(/*Utente ut*/) {
+    public void avviaUltimaNotizia(/*Utente ut*/) {
+        try {
+            URL feedUrl = new URL(super.sourceURL);
+            SyndFeedInput input = new SyndFeedInput();
 
 
             try {
 
-
-
+                SyndFeed feed = input.build(new InputSource(feedUrl.openStream()));
+                List<SyndEntry> entries = feed.getEntries();
                 BufferedWriter bw = new BufferedWriter(super.fileScrit);
                 PrintWriter fileTesto = new PrintWriter(bw);
+                SyndEntry entry = entries.get(1);
 
-
-
-                System.out.println("\n[" + entry.getPublishedDate() + "] ");
+                System.out.println("\n[poooooo" + entry.getPublishedDate() + "] ");
                 System.out.println(entry.getTitle());
                 System.out.println(entry.getLink());
                 fileTesto.println("Notizia singola scelta da utente"/*+(String)ut.getName()*/);
@@ -50,7 +61,42 @@ public class Notizia extends Fonte {
                 super.fileScrit.close();
             } catch (IOException e) {
                 throw new RuntimeException(e);
+            } catch (FeedException e) {
+                throw new RuntimeException(e);
             }
+        }catch (MalformedURLException e) {
+            // Errore indirizzo e accesso ai feed
+            e.printStackTrace();
+        }
+    }
+
+    public void avviaNotizia(/*Utente ut*/) {
+
+
+        try {
+
+
+
+            BufferedWriter bw = new BufferedWriter(super.fileScrit);
+            PrintWriter fileTesto = new PrintWriter(bw);
+
+
+
+            System.out.println("\n[" + entry.getPublishedDate() + "] ");
+            System.out.println(entry.getTitle());
+            System.out.println(entry.getLink());
+            fileTesto.println("Notizia singola scelta da utente"/*+(String)ut.getName()*/);
+            fileTesto.println("[" + entry.getPublishedDate() + "] ");
+            fileTesto.println(entry.getTitle());
+            fileTesto.println(entry.getLink());
+
+
+            fileTesto.close();
+            bw.close();
+            super.fileScrit.close();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 /*  Non è necessaria,riporta solo l'ultima notizia di una fonte
 
